@@ -1,12 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423228個人網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2016-11-11T12:00:00+08:00</updated><entry><title>20161111</title><link href="./20161111.html" rel="alternate"></link><updated>2016-11-11T12:00:00+08:00</updated><author><name>40423227</name></author><id>tag:,2016-11-11:./20161111.html</id><summary type="html">&lt;p&gt;&lt;a href="https://ethercalc.org/sde741ot61o4"&gt;自評系統&lt;/a&gt;&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>20161104</title><link href="./20161104.html" rel="alternate"></link><updated>2016-11-04T12:00:00+08:00</updated><author><name>40423227</name></author><id>tag:,2016-11-04:./20161104.html</id><summary type="html">&lt;p&gt;&lt;a href="http://pygroup-ag100.rhcloud.com"&gt;期中課程評量系統&lt;/a&gt;&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>20161028</title><link href="./20161028.html" rel="alternate"></link><updated>2016-10-28T12:00:00+08:00</updated><author><name>40423227</name></author><id>tag:,2016-10-28:./20161028.html</id><summary type="html">&lt;p&gt;使用Trace Point計算路徑&lt;p&gt;</summary><category term="上課內容"></category></entry><entry><title>20161021</title><link href="./20161021.html" rel="alternate"></link><updated>2016-10-21T12:00:00+08:00</updated><author><name>40423227</name></author><id>tag:,2016-10-21:./20161021.html</id><summary type="html">&lt;h2&gt;解決子模組在對應上的問題&lt;/h2&gt;</summary><category term="上課內容"></category></entry><entry><title>20161014</title><link href="./20161014.html" rel="alternate"></link><updated>2016-10-14T12:00:00+08:00</updated><author><name>40423227</name></author><id>tag:,2016-10-14:./20161014.html</id><summary type="html">&lt;p&gt;初步認識SolveSpace&lt;p&gt;</summary><category term="上課內容"></category></entry><entry><title>20161007</title><link href="./20161007.html" rel="alternate"></link><updated>2016-10-07T12:00:00+08:00</updated><author><name>40423227</name></author><id>tag:,2016-10-07:./20161007.html</id><summary type="html">&lt;p&gt;設定使用者資料,讓可攜程式更方便&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423205個人網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2016-11-11T12:00:00+08:00</updated><entry><title>20161111W9</title><link href="./20161111w9.html" rel="alternate"></link><updated>2016-11-11T12:00:00+08:00</updated><author><name>40423205</name></author><id>tag:,2016-11-11:./20161111w9.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;p&gt;用2016fallcadp_bg5的名稱,建立小組倉儲&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>20160930</title><link href="./20160930.html" rel="alternate"></link><updated>2016-09-30T12:00:00+08:00</updated><author><name>40423227</name></author><id>tag:,2016-09-30:./20160930.html</id><summary type="html">&lt;p&gt;複製網誌和簡報的設定檔到2016fallcadp_hw的倉儲&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://ethercalc.org/sde741ot61o4"&gt;自評系統&lt;/a&gt;&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>20161118W10</title><link href="./20161118w10.html" rel="alternate"></link><updated>2016-11-11T12:00:00+08:00</updated><author><name>40423235</name></author><id>tag:,2016-11-11:./20161118w10.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt; Github由於有更新,所以在推送的時候發現了疑似是"bug"的事情導致無法推送，後來發現只要刪除liquid_tag內的test資料夾即可解決，推測為ipynb的衝突造成。 &lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>20161104W8</title><link href="./20161104w8.html" rel="alternate"></link><updated>2016-11-04T12:00:00+08:00</updated><author><name>40423235</name></author><id>tag:,2016-11-04:./20161104w8.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;&lt;a href="http://pygroup-ag100.rhcloud.com"&gt;期中 課程評量系統&lt;/a&gt;&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>20161028W7</title><link href="./20161028w7.html" rel="alternate"></link><updated>2016-10-28T12:00:00+08:00</updated><author><name>40423235</name></author><id>tag:,2016-10-28:./20161028w7.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;使用Trace Point計算路徑&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/192092857" width="640" height="457" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="上課內容"></category></entry><entry><title>20161125W11</title><link href="./20161125w11.html" rel="alternate"></link><updated>2016-10-28T12:00:00+08:00</updated><author><name>40423235</name></author><id>tag:,2016-10-28:./20161125w11.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;一些Solvespace 上傳至網頁的小細節&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/196804285" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/196804285"&gt;2016-12-23 40423212 hw6&lt;/a&gt; from &lt;a href="https://vimeo.com/user45523667"&gt;40423212&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe src="../data/test.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;img src="./../data/121.png" width="800" /&gt;
+&lt;img src="./../data/12.png" width="800" /&gt;&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>20161202W12</title><link href="./20161202w12.html" rel="alternate"></link><updated>2016-10-28T12:00:00+08:00</updated><author><name>40423235</name></author><id>tag:,2016-10-28:./20161202w12.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;期末心得&lt;p&gt;
+這堂課讓我學會了許多雖然未必是最佳，但是很方便使用的機械設計輔助工具如Solvespace及Onshape，以及讓我體會到時代劇烈變化的速度是多麼驚人，因此我們不能停下學習的腳步。</summary><category term="上課內容"></category></entry><entry><title>20161021W6</title><link href="./20161021w6.html" rel="alternate"></link><updated>2016-10-21T12:00:00+08:00</updated><author><name>40423235</name></author><id>tag:,2016-10-21:./20161021w6.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h2&gt;解決子模組在對應上的問題&lt;/h2&gt;</summary><category term="上課內容"></category></entry><entry><title>20161014W5</title><link href="./20161014w5.html" rel="alternate"></link><updated>2016-10-14T12:00:00+08:00</updated><author><name>40423235</name></author><id>tag:,2016-10-14:./20161014w5.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;初步認識SolveSpace&lt;p&gt;
+&lt;p&gt;SolveSpace四連桿組&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/190191199" width="640" height="457" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="上課內容"></category></entry><entry><title>20161007W4</title><link href="./20161007w4.html" rel="alternate"></link><updated>2016-10-07T12:00:00+08:00</updated><author><name>40423235</name></author><id>tag:,2016-10-07:./20161007w4.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;設定使用者資料讓可攜程式更方便&lt;/p&gt;
+
+&lt;p&gt;用2016fallcadp_bg5的名稱,建立小組倉儲&lt;/p&gt;
+
+&lt;p&gt;使用submodule整理組隊倉儲&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/187303117" width="640" height="455" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/187303117"&gt;2016-10-07_11-54-18&lt;/a&gt; from &lt;a href="https://vimeo.com/user45620934"&gt;40423243&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>20160930W3</title><link href="./20160930w3.html" rel="alternate"></link><updated>2016-09-30T12:00:00+08:00</updated><author><name>40423235</name></author><id>tag:,2016-09-30:./20160930w3.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;複製網誌和簡報的設定檔到2016fallcadp_hw的倉儲&lt;/p&gt;
 
 &lt;p&gt;更改2016fallcadp_hw的README.md檔案&lt;/p&gt;
 
-&lt;pre&gt;簡報: https://40423227.github.io/2016fallcadp_hw
-網址: https://40423227.github.io/2016fallcadp_hw/blog/&lt;/pre&gt;
+&lt;pre&gt;簡報: https://40423237.github.io/2016fallcadp_hw
+網址: https://40423237.github.io/2016fallcadp_hw/blog/&lt;/pre&gt;
 
 &lt;h2&gt;解決近端設定代理主機的問題&lt;/h2&gt;
 
@@ -36,8 +73,8 @@ error: cannot overwrite multiple values with a single value
 [https]
     proxy = http://proxy.mde.tw:3128
 [user]
-    email = 40423227@gm.nfu.edu.tw
-    name = 40423227
+    email = 40423237@gm.nfu.edu.tw
+    name = 40423237
 &lt;/pre&gt;
 
 &lt;p&gt;更正後儲存
@@ -47,17 +84,74 @@ error: cannot overwrite multiple values with a single value
 [https]
     proxy = http://proxy.mde.tw:3128
 [user]
-    email = 40423227@gm.nfu.edu.tw
-    name = 40423227
-&lt;/pre&gt;&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>20160923</title><link href="./20160923.html" rel="alternate"></link><updated>2016-09-23T12:00:00+08:00</updated><author><name>40423227</name></author><id>tag:,2016-09-23:./20160923.html</id><summary type="html">&lt;p&gt;建立40423227.github.io名稱的倉儲&lt;/p&gt;
+    email = 40423237@gm.nfu.edu.tw
+    name = 40423237
+&lt;/pre&gt;&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>20160923W2</title><link href="./20160923w2.html" rel="alternate"></link><updated>2016-09-23T12:00:00+08:00</updated><author><name>40423235</name></author><id>tag:,2016-09-23:./20160923w2.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;pre&gt;把README內容改成 https://40423227.github.io/ &lt;/pre&gt;
+&lt;p&gt;建立40423237.github.io名稱的倉儲&lt;/p&gt;
 
-&lt;p&gt;把分支的預設值改為gh-pages&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>other</title><link href="./other.html" rel="alternate"></link><updated>2016-09-22T12:00:00+08:00</updated><author><name>40423227</name></author><id>tag:,2016-09-22:./other.html</id><summary type="html">&lt;h2&gt;使用環境設定&lt;/h2&gt;
+&lt;p&gt;把分支的預設值改為gh-pages&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>20160916W1</title><link href="./20160916w1.html" rel="alternate"></link><updated>2016-09-16T12:00:00+08:00</updated><author><name>40423235</name></author><id>tag:,2016-09-16:./20160916w1.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h2&gt;中秋連假&lt;/h2&gt;
+
+&lt;p&gt;切換到2016fallcadp_hw的分支&lt;/p&gt;
+
+&lt;pre&gt;cd &lt;u&gt;分支名稱&lt;/u&gt;
+(例如:cd 2016fallcadp_hw)&lt;/pre&gt;
+
+&lt;p&gt;回到上一個分支&lt;/p&gt;
+
+&lt;pre&gt;cd ..&lt;/pre&gt;
+
+&lt;p&gt;會新建一個40423237的資料夾,並把遠端資料存在裡面&lt;/p&gt;
+
+&lt;pre&gt;git clone &lt;u&gt;倉儲網址&lt;/u&gt; &lt;u&gt;分支名稱&lt;/u&gt;
+(例如:git clone https://github.com/40423237/2016fallcadp_hw.git )&lt;/pre&gt;
+
+&lt;p&gt;檢查分支&lt;/p&gt;
+
+&lt;pre&gt;git branch&lt;/pre&gt;
+
+&lt;p&gt;建立一個gh-pages名稱的分支&lt;/p&gt;
+
+&lt;pre&gt;git branch &lt;u&gt;分支名稱&lt;/u&gt;
+(例如:git branch gh-pages)&lt;/pre&gt;
+
+&lt;p&gt;切換到指定的gh-pages分支&lt;/p&gt;
+
+&lt;pre&gt;git checkout &lt;u&gt;分支名稱&lt;/u&gt;
+(例如:git checkout gh-pages)&lt;/pre&gt;
+
+&lt;pre&gt;git add -A&lt;/pre&gt;
+
+&lt;pre&gt;git commit -m"&lt;u&gt;改版內容&lt;/u&gt;"
+(例如:git commit -m"add all")&lt;/pre&gt;
+
+&lt;p&gt;推送進端資料到遠端,並且指定推送到gh-pages的分支&lt;/p&gt;
+
+&lt;pre&gt;git push origin &lt;u&gt;分支名稱&lt;/u&gt;
+(例如:git push origin gh-pages)&lt;/pre&gt;
+
+&lt;pre&gt;git pull&lt;/pre&gt;
+
+&lt;p&gt;收尋該檔案名稱,並逐一確認是否刪除&lt;/p&gt;
+
+&lt;pre&gt;git rm &lt;u&gt;檔案名稱&lt;/u&gt;&lt;/pre&gt;
+
+&lt;p&gt;回到之前072e3af的版本資料&lt;/p&gt;
+
+&lt;pre&gt;git reset --hard &lt;u&gt;版本代碼&lt;/u&gt;
+(例如:git reset --hard 072e3af)&lt;/pre&gt;
+
+&lt;p&gt;直接刪除所有該檔案名稱的檔案&lt;/p&gt;
+
+&lt;pre&gt;git rm &lt;u&gt;檔案名稱&lt;/u&gt; -f&lt;/pre&gt;</summary><category term="上課內容"></category></entry><entry><title>other</title><link href="./other.html" rel="alternate"></link><updated>2016-09-02T12:00:00+08:00</updated><author><name>40423235</name></author><id>tag:,2016-09-02:./other.html</id><summary type="html">&lt;h2&gt;使用環境設定&lt;/h2&gt;
 
 &lt;pre&gt;
-git config --global user.email "40423227@gm.nfu.edu.tw"
-git config --global user.name "40423227"&lt;/pre&gt;
+git config --global user.email "40423237@gm.nfu.edu.tw"
+git config --global user.name "40423237"&lt;/pre&gt;
 
 &lt;p&gt;git add -A
 git commit -m "add all"
@@ -65,10 +159,10 @@ git pull origin gh-pages
 pit push origin gh-pages&lt;/p&gt;
 &lt;h2&gt;子模組&lt;/h2&gt;
 
-&lt;p&gt;用40423228的名稱把https://github.com/40423227/2016fallcadp_hw的倉儲加入為子模組&lt;/p&gt;
+&lt;p&gt;用40423237的名稱把https://github.com/40423237/2016fallcadp_hw的倉儲加入為子模組&lt;/p&gt;
 
 &lt;pre&gt;git submodule add -b gh-pages &lt;u&gt;子模組網址&lt;/u&gt; &lt;u&gt;子模組名稱&lt;/u&gt;
-(例如:git submodule add -b gh-pages https://github.com/40423227/2016fallcadp_hw "40423227")&lt;/pre&gt;
+(例如:git submodule add -b gh-pages https://github.com/40423237/2016fallcadp_hw 40423237)&lt;/pre&gt;
 
 &lt;p&gt;抓對應子模組的版本&lt;/p&gt;
 
@@ -119,57 +213,4 @@ pit push origin gh-pages&lt;/p&gt;
 
 &lt;p&gt;&lt;u&gt;底線&lt;/u&gt;&lt;/p&gt;
 
-&lt;pre&gt;&amp;lt;u&gt;底線&amp;lt;/u&gt;&lt;/pre&gt;</summary><category term="設定"></category></entry><entry><title>20160916</title><link href="./20160916.html" rel="alternate"></link><updated>2016-09-16T12:00:00+08:00</updated><author><name>40423227</name></author><id>tag:,2016-09-16:./20160916.html</id><summary type="html">&lt;h2&gt;中秋連假&lt;/h2&gt;
-
-&lt;p&gt;切換到2016fallcadp_hw的分支&lt;/p&gt;
-
-&lt;pre&gt;cd &lt;u&gt;分支名稱&lt;/u&gt;
-(例如:cd 2016fallcadp_hw)&lt;/pre&gt;
-
-&lt;p&gt;回到上一個分支&lt;/p&gt;
-
-&lt;pre&gt;cd ..&lt;/pre&gt;
-
-&lt;p&gt;會新建一個40423227的資料夾,並把遠端資料存在裡面&lt;/p&gt;
-
-&lt;pre&gt;git clone &lt;u&gt;倉儲網址&lt;/u&gt; &lt;u&gt;分支名稱&lt;/u&gt;
-(例如:git clone https://github.com/40423227/2016fallcadp_hw.git )&lt;/pre&gt;
-
-&lt;p&gt;檢查分支&lt;/p&gt;
-
-&lt;pre&gt;git branch&lt;/pre&gt;
-
-&lt;p&gt;建立一個gh-pages名稱的分支&lt;/p&gt;
-
-&lt;pre&gt;git branch &lt;u&gt;分支名稱&lt;/u&gt;
-(例如:git branch gh-pages)&lt;/pre&gt;
-
-&lt;p&gt;切換到指定的gh-pages分支&lt;/p&gt;
-
-&lt;pre&gt;git checkout &lt;u&gt;分支名稱&lt;/u&gt;
-(例如:git checkout gh-pages)&lt;/pre&gt;
-
-&lt;pre&gt;git add -A&lt;/pre&gt;
-
-&lt;pre&gt;git commit -m"&lt;u&gt;改版內容&lt;/u&gt;"
-(例如:git commit -m"add all")&lt;/pre&gt;
-
-&lt;p&gt;推送進端資料到遠端,並且指定推送到gh-pages的分支&lt;/p&gt;
-
-&lt;pre&gt;git push origin &lt;u&gt;分支名稱&lt;/u&gt;
-(例如:git push origin gh-pages)&lt;/pre&gt;
-
-&lt;pre&gt;git pull&lt;/pre&gt;
-
-&lt;p&gt;收尋該檔案名稱,並逐一確認是否刪除&lt;/p&gt;
-
-&lt;pre&gt;git rm &lt;u&gt;檔案名稱&lt;/u&gt;&lt;/pre&gt;
-
-&lt;p&gt;回到之前072e3af的版本資料&lt;/p&gt;
-
-&lt;pre&gt;git reset --hard &lt;u&gt;版本代碼&lt;/u&gt;
-(例如:git reset --hard 671e24a)&lt;/pre&gt;
-
-&lt;p&gt;直接刪除所有該檔案名稱的檔案&lt;/p&gt;
-
-&lt;pre&gt;git rm &lt;u&gt;檔案名稱&lt;/u&gt; -f&lt;/pre&gt;</summary><category term="上課內容"></category></entry></feed>
+&lt;pre&gt;&amp;lt;u&gt;底線&amp;lt;/u&gt;&lt;/pre&gt;</summary><category term="設定"></category></entry></feed>

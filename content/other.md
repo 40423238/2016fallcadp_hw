@@ -1,22 +1,22 @@
 Title: other
-Date: 20160922 12:00
+Date: 2016-09-2 12:00
 Category: Misc
 Tags: 設定
-Author: 40423227
+Author: 40423235
 
 <h2>使用環境設定</h2>
 <pre>
-git config --global user.email "40423227@gm.nfu.edu.tw"
-git config --global user.name "40423227"</pre>
+git config --global user.email "40423237@gm.nfu.edu.tw"
+git config --global user.name "40423237"</pre>
 git add -A
 git commit -m "add all"
 git pull origin gh-pages
 pit push origin gh-pages
 
 <h2>子模組</h2>
-<p>用40423227的名稱把https://github.com/40423227/2016fallcadp_hw的倉儲加入為子模組</p>
+<p>用40423237的名稱把https://github.com/40423237/2016fallcadp_hw的倉儲加入為子模組</p>
 <pre>git submodule add -b gh-pages <u>子模組網址</u> <u>子模組名稱</u>
-(例如:git submodule add -b gh-pages https://github.com/40423227/2016fallcadp_hw "40423227")</pre>
+(例如:git submodule add -b gh-pages https://github.com/40423237/2016fallcadp_hw 40423237)</pre>
 <p>抓對應子模組的版本</p>
 <pre>git submodule update --init --recursive</pre>
 <p>更新子模組的資料,甚至更新子模組裡子模組的資料</p>

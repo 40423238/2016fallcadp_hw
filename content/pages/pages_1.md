@@ -1,6 +1,6 @@
 Title: About
 
-##2016FallCadp 40423236網誌
+##2016Fall 修課成員網誌
 
 
 

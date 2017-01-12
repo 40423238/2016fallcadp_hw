@@ -5,105 +5,126 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2016-11-15T00:58:41-00:00</lastmod>
+<lastmod>2017-01-12T16:45:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2016-11-15T00:58:41-00:00</lastmod>
+<lastmod>2017-01-12T16:45:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2016-11-15T00:58:41-00:00</lastmod>
+<lastmod>2017-01-12T16:45:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2016-11-15T00:58:41-00:00</lastmod>
+<lastmod>2017-01-12T16:45:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./pages/about/</loc>
-<lastmod>2016-11-15T00:22:49+08:00</lastmod>
+<lastmod>2017-01-12T16:35:05+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./20161111.html</loc>
+<loc>./20161111w9.html</loc>
 <lastmod>2016-11-11T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./20161104.html</loc>
+<loc>./20161118w10.html</loc>
+<lastmod>2016-11-11T12:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./20161104w8.html</loc>
 <lastmod>2016-11-04T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./20161028.html</loc>
+<loc>./20161028w7.html</loc>
 <lastmod>2016-10-28T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./20161021.html</loc>
+<loc>./20161125w11.html</loc>
+<lastmod>2016-10-28T12:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./20161202w12.html</loc>
+<lastmod>2016-10-28T12:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./20161021w6.html</loc>
 <lastmod>2016-10-21T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./20161014.html</loc>
+<loc>./20161014w5.html</loc>
 <lastmod>2016-10-14T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./20161007.html</loc>
+<loc>./20161007w4.html</loc>
 <lastmod>2016-10-07T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./20160930.html</loc>
+<loc>./20160930w3.html</loc>
 <lastmod>2016-09-30T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./20160923.html</loc>
+<loc>./20160923w2.html</loc>
 <lastmod>2016-09-23T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./other.html</loc>
-<lastmod>2016-09-22T12:00:00+08:00</lastmod>
+<loc>./20160916w1.html</loc>
+<lastmod>2016-09-16T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./20160916.html</loc>
-<lastmod>2016-09-16T12:00:00+08:00</lastmod>
+<loc>./other.html</loc>
+<lastmod>2016-09-02T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -117,7 +138,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./tag/she-ding.html</loc>
-<lastmod>2016-09-22T12:00:00+08:06</lastmod>
+<lastmod>2016-09-02T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -130,7 +151,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./author/40423238.html</loc>
+<loc>./author/40423205.html</loc>
+<lastmod>2016-11-11T12:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./author/40423235.html</loc>
 <lastmod>2016-11-11T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
